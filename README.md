@@ -1,3 +1,10 @@
+n this repository I created an interesting react project - A React Advice App. I used React on the front end and  made get requests to Advice Slip JSON API. Lastly deployed in [Netlify](https://www.netlify.com/).
+Link: https://snazzy-biscuit-558370.netlify.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
